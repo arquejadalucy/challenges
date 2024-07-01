@@ -28,6 +28,7 @@ def group_by_characters(arr: list[str]):
 
 
 def group_by_characters_refactored(arr: list[str]):
+
     result = []
     current = 0
     current_list = []
